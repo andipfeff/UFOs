@@ -7,3 +7,6 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 ## Summary
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+1. Clear Filters button
+2. Date Range Filter rather than one date
