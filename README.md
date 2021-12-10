@@ -11,10 +11,11 @@ The following steps walk through using the webpage filters:
 
 - Input desired search criteria in one or more of the filters
 
-&nbsp; &nbsp; &nbsp; &nbsp; Filtering using ONE filter:
-![fl_state_filter](https://user-images.githubusercontent.com/90863226/145641333-3738bfa3-0336-46f0-923c-cff8544c28eb.png)
+&nbsp; &nbsp; &nbsp; &nbsp; Filtering using **ONE** filter:
+![fl_state_filter](https://user-images.githubusercontent.com/90863226/145643170-e493ca2e-49a5-43eb-96dc-d968ece4a55a.png)
 
-&nbsp; &nbsp; &nbsp; &nbsp; Filtering using MULTIPLE filters:
+
+&nbsp; &nbsp; &nbsp; &nbsp; Filtering using **MULTIPLE** filters:
 ![state_and_shape_filter](https://user-images.githubusercontent.com/90863226/145641372-711355bc-2b9f-434e-848b-febd93f942a2.png)
 
 - Clear the filter inputs to reset the table to include all UFO sightings
