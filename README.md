@@ -22,8 +22,7 @@ The following steps walk through using the webpage filters:
 
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+This is a great start for this UFO sightings webpage, however there are a couple of drawbacks with the current design.  First the user can't easily tell how they are supposed to input each field, and secondly clearing multiple filters to get back to an unfiltered view is a little cumbersome.  With these drawbacks in mind I would suggest the following enhancements:
 
-1. Clear Filters button
-2. Date Range Filter rather than one date
-3. Multiple Filter Criteria
+1. Changing the filters to be a date range selector for the date and a drop down list for the others with the ability to select multiple choices of each filter
+2. Create a "Clear Filter" button that, upon clicking, clears all filters and resets the table back to the default view showing all data
