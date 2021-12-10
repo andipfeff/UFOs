@@ -1,13 +1,13 @@
 # UFOs
 ## Project Overview
-The purpose of this analysis is to create a webpage about UFO sightings with a dynamic table that responds to multiple filters. The webpage was built using JavaScript & HTML along with CSS styling. The table, filled with UFO sighting data, is able to be filtered by date, city, state, country, and shape.
+The purpose of this analysis is to create a webpage about UFO sightings with a dynamic table that responds to multiple filters. The webpage was built using JavaScript & HTML along with CSS styling. The table, filled with UFO sighting data, can be filtered by date, city, state, country, and shape.
 
 ## Results
 The following steps walk through using the webpage filters:
 
-- The filter pane is located about halfway down the page on the left hand side
+- The filter pane is located about halfway down the page on the left-hand side 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Filters](https://user-images.githubusercontent.com/90863226/145638682-bbad2337-e75d-4b2d-8b33-2c5a67281fd9.png)
+![Filters](https://user-images.githubusercontent.com/90863226/145638682-bbad2337-e75d-4b2d-8b33-2c5a67281fd9.png)
 
 - Input desired search criteria in one or more of the filters
 
@@ -22,7 +22,7 @@ The following steps walk through using the webpage filters:
 
 
 ## Summary
-This is a great start for this UFO sightings webpage, however there are a couple of drawbacks with the current design.  First the user can't easily tell how they are supposed to input each field, and secondly clearing multiple filters to get back to an unfiltered view is a little cumbersome.  With these drawbacks in mind I would suggest the following enhancements:
+This is a great start for this UFO sightings webpage, however there are a couple of drawbacks with the current design.  First the user can't easily tell how they are supposed to input each field, and secondly clearing multiple filters to get back to an unfiltered view is a little cumbersome.  With these drawbacks in mind, I would suggest the following enhancements:
 
-1. Changing the filters to be a date range selector for the date and a drop down list for the others with the ability to select multiple choices of each filter
+1. Changing the filters to be a date range selector for the date and a drop-down list for the others with the ability to select multiple choices of each filter
 2. Create a "Clear Filter" button that, upon clicking, clears all filters and resets the table back to the default view showing all data
